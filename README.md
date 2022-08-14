@@ -2,7 +2,7 @@
 
 ## Overview of Project 
 
-Louise want to start a crowdfunding campaing to help fund the play "Fever". She estimate the project will cost over $10,000 and she need help to organize ,sort and analyze crowdfunding data to define the key element that will lead this project to success.
+Louise want to start a crowdfunding campaign to help fund the play "Fever". She estimate the project will cost over $10,000 and she need help to organize ,sort and analyze crowdfunding data to define the key element that will lead this project to success.
 
 ### Purpose
 
@@ -20,7 +20,7 @@ This is an analytical report build using line chart, with data coming in from Ki
 
 ### Challenges and Difficulties Encountered 
 
-Both visualization were analyzed by different category therefore they were not aline with this may shows discrepancies if we try to compare both visualization. Outcomes by Launch Date was filter by theater parent category while Outcomes based on Goals values were under subcategory plays. To be able to do an accurate analysis between both visualization I have to include subcategory field name into pivot filter and filter the pivot table in the subcategory plays. After that I was able to see that successful and failed plays outcomes trend were similar to theater outcomes. Canceled outcomes trend was completely diferent. 
+Both visualization were analyzed by different category therefore they were not aline with this may shows discrepancies if we try to compare both visualization. Outcomes by Launch Date was filter by theater parent category while Outcomes based on Goals values were under subcategory plays. To be able to do an accurate analysis between both visualization I have to include subcategory field name into pivot filter and filter the pivot table in the subcategory plays. After that I was able to see that successful and failed plays outcomes trend were similar to theater outcomes. Canceled outcomes trend was completely different. 
 
 
 ## Results
